@@ -8,10 +8,6 @@ The project follows the Medallion Architecture (Bronze, Silver, Gold) to organiz
 
 ---
 
-## Architecture
-
-![Architecture](architecture/architecture.png)
-
 ### Data Flow
 
 ```text
